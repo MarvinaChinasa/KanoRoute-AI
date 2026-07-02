@@ -1,5 +1,4 @@
 
-```markdown
 # 📍 KanoRoute AI: Secure Multi-Agent Territory Routing & Inventory Reconciler
 
 [![Kaggle Hackathon](https://img.shields.io/badge/Kaggle-5--Day%20AI%20Agents-blueviolet?logo=kaggle)](https://www.kaggle.com)
@@ -9,7 +8,6 @@
 
 > **Bridging the Underspecification Gap in Regional FMCG Logistics Using Spec-Driven Architecture and Secure Model Context Protocol Engines**
 
----
 ---
 
 ## 1. Project Overview
@@ -35,9 +33,6 @@ Traditional ERP platforms are too rigid to digest unstructured chat records, whi
 ## 3. Architecture & Core Concepts
 
 KanoRoute AI implements a secure, modular **Context-as-a-Perimeter** architecture that encloses reasoning engines within multi-layered guardrails.
-
-
-```
 
 [ Natural Language Field Report ]
 │

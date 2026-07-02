@@ -1,5 +1,5 @@
 
-```
+```markdown
 # 📍 KanoRoute AI: Secure Multi-Agent Territory Routing & Inventory Reconciler
 
 [![Kaggle Hackathon](https://img.shields.io/badge/Kaggle-5--Day%20AI%20Agents-blueviolet?logo=kaggle)](https://www.kaggle.com)

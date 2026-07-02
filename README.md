@@ -1,4 +1,3 @@
-```markdown
 # 📍 KanoRoute AI: Secure Multi-Agent Territory Routing & Inventory Reconciler
 
 [![Kaggle Hackathon](https://img.shields.io/badge/Kaggle-5--Day%20AI%20Agents-blueviolet?logo=kaggle)](https://www.kaggle.com)
@@ -43,7 +42,7 @@ KanoRoute AI transforms this chaotic operational landscape by turning natural la
 
 KanoRoute AI moves entirely away from single-prompt monoliths, instead utilizing a micro-segmented framework built via the Agent Development Kit (ADK) and controlled through modular Agent Skills.
 
-```text
+
 [ Natural Language Field Report ]
                │
                ▼

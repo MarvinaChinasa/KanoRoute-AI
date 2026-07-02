@@ -62,7 +62,7 @@ KanoRoute AI moves entirely away from single-prompt monoliths, instead utilizing
 │  Isolated Ephemeral Sandbox Container        │ ──> [Prevents State Corruptions]
 └──────────────────────────────────────────────┘
 
-```
+
 
 ### Key Concept 1: Agent Skills & Progressive Disclosure (ADK Layer)
 

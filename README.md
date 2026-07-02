@@ -10,16 +10,6 @@
 > **Bridging the Underspecification Gap in Regional FMCG Logistics Using Spec-Driven Architecture and Secure Model Context Protocol Engines**
 
 ---
-
-## 📋 Table of Contents
-* [1. Project Overview](#1-project-overview)
-* [2. Real-World Problem & The Human Cost](#2-real-world-problem--the-human-cost)
-* [3. Architecture & Core Concepts](#3-architecture--core-concepts)
-* [4. Project Structure](#4-project-structure)
-* [5. Installation & Setup](#5-installation--setup)
-* [6. Verification & Sample Output](#6-verification--sample-output)
-* [7. Business Value & Telemetry Insights](#7-business-value--telemetry-insights)
-
 ---
 
 ## 1. Project Overview
@@ -190,19 +180,5 @@ When parameter fields are supplied via the interactive `ipywidgets` interface, t
 ---
 
 *Developed as part of the Kaggle 5-Day AI Agents Course.*
-
-```
-
----
-
-### 🚀 To put this live in your repo right now:
-1. Open your `C:\KanoRoute-AI` folder.
-2. Create or open the text file named `README.md`.
-3. Paste the contents of the black box above right inside and click **Save**.
-4. Push it to your new GitHub page via PowerShell:
-   ```powershell
-   git add README.md
-   git commit -m "Docs: Add production-grade README manual"
-   git push origin main
 
 ```
